@@ -19,7 +19,7 @@ A mobile chat app where users can have a conversation with a calm, thoughtful AI
 ### 1. Clone & install
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/shoaiburrehman/OApp-AI-Health.git
 cd ai-health-companion
 npm install
 ```
