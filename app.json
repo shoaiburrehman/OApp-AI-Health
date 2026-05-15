@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "AI Health Companion",
+    "slug": "ai-health-companion",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.yourname.aihealthcompanion"
+    },
+    "android": {
+      "package": "com.yourname.aihealthcompanion"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "ai-health-companion",
+    "extra": {
+      "router": {
+        "origin": false
+      }
+    }
+  }
+}
